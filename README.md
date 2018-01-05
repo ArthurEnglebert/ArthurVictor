@@ -15,3 +15,10 @@ Actuellement, j'ai mis :
 - ``xrandr --output `xrandr | grep " connected" | cut -f1 -d" "` --auto`` (injecte la valeur de la commande interne pour recuperer le display actif, et demande a xrandr de l'update en auto, qui normalement fullscreen)
 - `killall urxvt` (commande de eth.os pour afficher le terminal qui bug quand on rescale la resolution)
 - `ethos-terminal` (pour redemarrer ce terminal)
+
+## todo
+- extract la clé USB et en faire un ISO.
+- [setup vpn pour se connecter aux dashboard des mines etc.](http://www.instructables.com/id/Host-Your-Own-Virtual-Private-Network-VPN-with-O/)
+- en apprendre plus sur la config powertune
+- rig de 6 cartes
+- RX580 Sapphire Nitro+ MAGUEL
