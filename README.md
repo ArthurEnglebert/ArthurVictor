@@ -1,7 +1,9 @@
 # ArthurVictor
 
 ## info commandes
-ethoschat (pour l'IRC) (taper /exit pour quitter)
+- `ethoschat` (pour l'IRC) (taper `/exit` pour quitter)
+- `sudo poweroff` pour eteindre le rig (NE LE REBOOT PAS !!)
+- `r` pour reboot
 
 ## info linux - eth.os
 Eth.os charge des folders dans le PATH au startup, dont /opt/ethos/sbin qui contient plusieurs commandes.
