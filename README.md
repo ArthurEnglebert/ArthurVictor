@@ -18,7 +18,7 @@ Actuellement, j'ai mis :
 
 ## todo
 - [extract la clé USB et en faire un ISO.](https://ubuntuforums.org/showthread.php?t=1043014)
-- [setup vpn pour se connecter aux dashboard des mines etc.](http://www.instructables.com/id/Host-Your-Own-Virtual-Private-Network-VPN-with-O/)
+- [setup vpn pour se connecter aux dashboard des mines etc.](https://www.howtogeek.com/60774/connect-to-your-home-network-from-anywhere-with-openvpn-and-tomato/)
 - en apprendre plus sur la config powertune
 - rig de 6 cartes
 - RX580 Sapphire Nitro+ MAGUEL
