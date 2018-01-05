@@ -17,7 +17,7 @@ Actuellement, j'ai mis :
 - `ethos-terminal` (pour redemarrer ce terminal)
 
 ## todo
-- extract la clé USB et en faire un ISO.
+- [extract la clé USB et en faire un ISO.](https://ubuntuforums.org/showthread.php?t=1043014)
 - [setup vpn pour se connecter aux dashboard des mines etc.](http://www.instructables.com/id/Host-Your-Own-Virtual-Private-Network-VPN-with-O/)
 - en apprendre plus sur la config powertune
 - rig de 6 cartes
