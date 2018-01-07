@@ -10,3 +10,5 @@ cor 4a11b5 2000
 mem 4a11b5 4500
 miner 4a11b5 ethminer
 #pwr 4a11b5 7
+
+# salut
