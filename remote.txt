@@ -4,7 +4,7 @@ proxywallet 0x190F0FFcd97C4CaE282ff67594BaB2c9Eb9F91A5
 proxypool1 eth-eu1.nanopool.org:9999
 proxypool2 eth-eu2.nanopool.org:9999
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 55
+globalfan 51
 
 cor 4a11b5 2000
 mem 4a11b5 4500
