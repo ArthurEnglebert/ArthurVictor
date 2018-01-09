@@ -6,7 +6,7 @@ proxypool2 eth-eu2.nanopool.org:9999
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan  55
 
-cor 4a11b5 2000
-mem 4a11b5 4500
+cor 4a11b5 2010
+mem 4a11b5 4510
 miner 4a11b5 ethminer
 #pwr 4a11b5 7
