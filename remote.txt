@@ -8,5 +8,5 @@ globalfan  70
 
 cor 4a11b5 2050
 mem 4a11b5 4520
-miner 4a11b5 ethminer
+miner 4a11b5  Claymore
 #pwr 4a11b5 7
