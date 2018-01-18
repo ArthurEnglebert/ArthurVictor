@@ -8,5 +8,5 @@ globalfan  70
 
 cor 4a11b5 2020
 mem 4a11b5 4500
-miner 4a11b5  Claymore
+miner 4a11b5  claymore
 #pwr 4a11b5 7
