@@ -9,7 +9,8 @@ globalfan  70
 globalcore 2020
 globalmem 4500
 miner 4a11b5  claymore
-pwr 4a11b5 7
+globalpowertune 3
+#pwr 4a11b5 7
 
 
 #cor 4a11b5 2020
