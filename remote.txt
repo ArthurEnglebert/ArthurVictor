@@ -9,7 +9,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan  70
 globalcore 2020
 globalmem 4500
-globalpowertune 2
+#globalpowertune 2
 
 
 #pwr 4a11b5 7
