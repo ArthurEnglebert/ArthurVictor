@@ -1,7 +1,7 @@
 maxgputemp 70
 stratumproxy enabled
-#miner 4a11b5 ethminer
-miner 4a11b5 Claymore
+
+miner 4a11b5 claymore
 proxywallet 0x190F0FFcd97C4CaE282ff67594BaB2c9Eb9F91A5
 proxypool1 eth-eu1.nanopool.org:9999
 proxypool2 eth-eu2.nanopool.org:9999
@@ -22,3 +22,5 @@ globalpowertune 2
 #proxypool2 eth-eu2.nanopool.org:9999
 #proxypool1 eu1.ethermine.org:4444
 #proxypool2 eu1.ethermine.org:14444
+
+#miner 4a11b5 ethminer
